@@ -16,7 +16,19 @@ El sistema permite registrar los pedidos de los clientes mediante una interfaz g
 selección de productos del menú, el ingreso de cantidades y el cálculo automático del monto total a pagar.
 
 
+##Capturas de pantalla
 
+### PRUEBA 1
+https://github.com/PsyBlock/SegundoParcialPB_WF2017-3156/blob/main/Screenshots/Prueba%2301.png
+
+### PRUEBA 2
+https://github.com/PsyBlock/SegundoParcialPB_WF2017-3156/blob/main/Screenshots/Prueba%2302.png
+
+### PRUEBA 3 
+https://github.com/PsyBlock/SegundoParcialPB_WF2017-3156/blob/main/Screenshots/Prueba%2303.png
+
+### PRUEBA 4
+https://github.com/PsyBlock/SegundoParcialPB_WF2017-3156/blob/main/Screenshots/Prueba%2304.png
 
 
 
